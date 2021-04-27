@@ -2,8 +2,6 @@
 #include <stdlib.h>
 
 //Richard Gajdosik, IDE  = CLION, Windows 10
-// Skusal som porovnavat 2 arraye, sucasnu cestu s tou ktora by mala byt na konci tak ako sme komunikovali v email-y no vypocet sa mi zrychlit nepodarilo tak som zmenu revertol na long long
-// 18:48
 
 void ukladanie_hodnot(char *a, int rozmer, int **matica, int *min) {
     int dlzka_cesty = 0;
